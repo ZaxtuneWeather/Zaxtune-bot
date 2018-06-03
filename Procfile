@@ -1,0 +1,1 @@
+wocker: node bot.js
