@@ -1,2 +1,2 @@
 # Zaxtune-bot
-IAM BEST.
+Bot using heroku, 24/7!
